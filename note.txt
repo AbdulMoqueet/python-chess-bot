@@ -1,0 +1,10 @@
+each square: 39x39 px
+
+up: 22px
+left: 22px
+
+
+bluestack---->
+top: 63px
+left: 4px
+each: 50x50 px
