@@ -1,0 +1,2 @@
+board: 314x314
+each sq: 39px
